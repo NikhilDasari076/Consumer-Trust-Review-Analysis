@@ -29,6 +29,9 @@ The dataset contains over 500,000 reviews of fine foods from Amazon. Each review
 - `Summary` - Brief summary of the review.
 - `Text` - Text of the review.
 
+## Dataset : https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews
+
+
 ## Methodology
 ### Data Preprocessing
 - **Cleaning**: Removed duplicates and handled missing data.
